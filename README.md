@@ -22,6 +22,7 @@ composer install
 sudo nano /etc/httpd/conf/httpd.conf
 
 (viết vào cuối file)
+
 Alias / /var/www/html/<project_folder_name>/public/
 <Directory "/var/www/html/<repo_name>/public">
     AllowOverride All
