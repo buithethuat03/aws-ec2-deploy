@@ -1,4 +1,4 @@
-# Deploy
+# Deploy laravel project trên Amazon EC2 linux 2023
 
 ## Bước 1: Tạo một máy ảo EC2
 - Cấu hình SSH, HTTP, HTTPS traffic from anywhere.
